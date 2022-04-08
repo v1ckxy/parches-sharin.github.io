@@ -5,7 +5,7 @@ Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un 
 > 3- Adjuntar captura pantalla si es posible
 
 # Cómo Descargar
-Vayan a releases y busquen el parche. A partir del 08/04/2022 se añadirá al repo también los parches además de en release.
+Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Release, los más nuevos estarán en su correspondiente carpeta en el repo.
 
 # Registro de actividades
 08/04/2022
