@@ -9,4 +9,4 @@ Vayan a releases y busquen el parche. A partir del 08/04/2022 se añadirá al re
 
 # Registro de actividades
 08/04/2022
-Añadido v4 de sea bed
+Añadido v5 de sea bed
