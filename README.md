@@ -8,5 +8,5 @@ Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un 
 Vayan a releases y busquen el parche. A partir del 08/04/2022 se añadirá al repo también los parches además de en release.
 
 #Registro de actividades
-08/04/2022
-Añadido v4 de sea bed
+
+Añadido v4 de sea bed. 08/04/2022
