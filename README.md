@@ -1,9 +1,7 @@
 # Cómo reportar errores
 Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un parche se recomienda lo siguiente:
-> 1- Añadir título novela
-<br/>
-> 2- Descripción
-<br/>
+> 1- Añadir título novela<br/>
+> 2- Descripción<br/>
 > 3- Adjuntar captura pantalla si es posible
 
 # Cómo Descargar
