@@ -8,5 +8,7 @@ Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un 
 Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Release, los más nuevos estarán en su correspondiente carpeta en el repo.
 
 # Registro de actividades
-08/04/2022
-Añadido v5 de sea bed
+</br>09/04/2022</br>
+> Añadido v6 de sea bed
+</br>08/04/2022</br>
+> Añadido v5 de sea bed
