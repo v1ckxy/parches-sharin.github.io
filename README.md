@@ -9,6 +9,9 @@ Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Re
 
 # Registro de actividades
 13/05/2022
+> Añadido parcial v0.2 que corrige el error que salía en la cita de Mashiro y eliminados los scripts antiguos que tenían problemas.<br/>
+
+13/05/2022
 > Añadido parcial de Making Lovers con la ruta de Mashiro.<br/>
 
 09/05/2022
