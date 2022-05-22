@@ -8,6 +8,9 @@ Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un 
 Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Release, los más nuevos estarán en su correspondiente carpeta en el repo.
 
 # Registro de actividades
+22/05/2022
+> Añadido parcial nuevo de Making Lovers con 3 rutas pero sin apenas imgs traducidas por pereza.<br/>
+
 13/05/2022
 > Añadido parcial v0.2 que corrige el error que salía en la cita de Mashiro y eliminados los scripts antiguos que tenían problemas.<br/>
 
