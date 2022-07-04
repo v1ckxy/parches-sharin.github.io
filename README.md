@@ -8,6 +8,9 @@ Vayan a la pestaña Issues y clicken en new Issues. Para reportar errores en un 
 Los parches anteriores al 08/04/2022 subidos a git estarán en el apartado de Release, los más nuevos estarán en su correspondiente carpeta en el repo.
 
 # Registro de actividades
+04/07/2022
+> Nueva versión del parche completo de Marco & la Galaxia Dragón arreglando errores.<br/>
+
 23/05/2022
 > Nueva versión del parche parcial que arregla un error que cerraba el juego entrando en la ruta de Reina, no obstante por algún motivo, el nombre "Mamá" aparece como "Mamáa" en las dos lineas que causaban el problema, pero mientras no lo rompa pues nada.<br/>
 
