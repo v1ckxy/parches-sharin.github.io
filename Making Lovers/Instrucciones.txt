@@ -1,0 +1,5 @@
+1- Copia pega todos los archivos de la carpeta "archivos a copiar" a la carpeta principal del juego
+2- Instala la fuente GrisaiaCustom
+3- Ve al menú de configuración dentro del juego y selecciona en el apartado de fuente GrisaiaCustom
+
+Si no arranca el parche, prueba cambiando la configuración regional a japonés
